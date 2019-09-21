@@ -1,0 +1,100 @@
+/*------------APPLIES TO ALL-------------*/
+* {
+    margin:0;
+    padding:0;
+}
+
+html {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+/*--------------INDEX-----------------*/
+
+#description h1 { 
+	text-align:center;
+	font-size: 60px;
+	padding-top: 30px;
+}
+
+#description h3 {
+	text-align:center;
+	font-size: 30px;
+	margin: 50px;
+}
+
+#inputform {
+	color: white;
+	font-weight: 300;
+}
+
+#inputform h3 { 
+	text-align: center;
+	padding: 40px 0;
+	padding-bottom: 20px;
+	font-size: 30px;
+}
+
+#inputform form {
+	font-size: 30px; 
+	font-weight: 300;
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+#inputform input {
+	font-size: 30px; 
+	margin: 10px 0;
+	width: 100px;
+}
+
+#inputform .submit-btn {
+	color: black;
+	background-color: white;
+	box-sizing: border-box;
+	border: none; 
+	font-size: 25px;
+	padding: 10px;
+	border-radius: 8px;
+}
+
+#inputform .zip-code {
+	width: 100px;
+}
+
+#misc-info h2 {
+	font-size: 30px;
+	text-align: center;
+	margin: 15px 0;
+}
+
+#misc-info img {
+	height: 70px;
+	position: relative;
+	left: 50%;
+	transform:translate(-50%, 0%);
+}
+
+/*--------------LEAD ANALYSIS-----------------*/
+#intro h1 { 
+	text-align:center;
+	font-size: 60px;
+	padding-top: 30px;
+}
+
+#intro h2 {
+	text-align: center;
+}
+
+.ny-lead-img {
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, 0%);
+}
+
+/*iframe {
+	margin: 50px 0;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, 0%);
+}*/
