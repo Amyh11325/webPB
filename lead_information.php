@@ -65,12 +65,10 @@
 		</div>
   	</div>
 
-  	<h1 style="color:'#326cb3'; text-align:center; padding: 30px;"><a href="index.php" style="text-decoration:none;">Search with another ZIP Code</a></h1>
+  	<h1 style="color:'#326cb3'; text-align:center; padding-top: 30px;"><a href="index.php" style="text-decoration:none;">Search with another ZIP Code</a></h1>
 
-<!--   	<div id="description">
-  		<h1>Lead Concentration Analysis</h1>
-  		<h3>Ever since the outcry over Flint, Michigan's heightened lead concentration in public water systems, which were used by facilities including schools, there has been a greater demand for quality water. To analyze how lead poisoning could potentially impact schoolchildren across the United States, we visualize lead concentration in schools in the populous state of New York.</h3>
-  	</div> -->
+  	<h2 style="text-align: center; margin: 20px 0px;">Powered by:</h2> 
+  	<img src="images/logo.png" style="position: relative; width:200px; left:50%; transform:translate(-50%, 0%); padding-bottom: 30px;">
  
 
   </body>

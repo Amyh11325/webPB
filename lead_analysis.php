@@ -9,11 +9,14 @@ if ($zip_code > 0 == False) {
     header("Location: index.php");
 }
 
-
 include('functions.php');
 
 $array = find_array($zip_code);
 $zip_row = find_zip_row($zip_code, $array);
+
+if ($zip_row > 0 == False) {
+    header("Location: index.php");
+}
 
 $school = $array[$zip_row][1]; 
 $county = $array[$zip_row][2];
@@ -73,6 +76,7 @@ $coor = $ziparray[$row][25];
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css">
     <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    <script src="leaflet-heat.js"></script>
     <style>
     .parallax {
       /* The image used */
@@ -150,10 +154,6 @@ $coor = $ziparray[$row][25];
       <i class="fa fa-tint" style="font-size: 200px;padding-top: 50px; color:white; position: relative; left: 50%; transform: translate(-50%, 0%);"></i>
       <h2 style="font-size: 40px; text-align:center; padding-bottom: 50px;"><a href="lead_information.php" style="text-decoration: none;color:white;">Learn more about lead poisoning here.</a></h2>
     </div>    
-
-<!--   	<h2 style="text-align: center; margin: 20px 0px;">Powered by:</h2> 
-  	<img src="images/logo.png" style="position: relative; width:200px; left:50%; transform:translate(-50%, 0%);"> -->
-
 
     <!-- HEAT MAP FUNCTIONALITY STARTS HERE -->
 
