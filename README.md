@@ -31,9 +31,10 @@ We hope to implement a mechanical aspect to our project so that users can test d
 
 ## Built with
 HTML, CSS, PHP, JavaScript, Leaflet.js<br>
+DevPost link for the OmniHacks hackathon <a href= "https://devpost.com/software/analyzing-lead-concentration-in-school-drinking-water?ref_content=contribution-prompt&ref_feature=engagement&ref_medium=email&utm_campaign=contribution-prompt&utm_content=contribution_reminder&utm_medium=email&utm_source=transactional#app-team">here</a>.<br>
 Data obtained from <a href="https://healthdata.gov/dataset/lead-testing-school-drinking-water-sampling-and-results-most-recently-reported-beginning">Lead Testing in School Drinking Water</a>, a survey conducted by the Department of Health.<br>
-Components of this website include a heatmap plugin from Leaflet, which can be found <a href="https://github.com/Leaflet/Leaflet.heat">here</a>
-DevPost link for the OmniHacks hackathon <a href= "https://devpost.com/software/analyzing-lead-concentration-in-school-drinking-water?ref_content=contribution-prompt&ref_feature=engagement&ref_medium=email&utm_campaign=contribution-prompt&utm_content=contribution_reminder&utm_medium=email&utm_source=transactional#app-team">here</a>.
+Components of this website include a heatmap plugin from Leaflet, which can be found <a href="https://github.com/Leaflet/Leaflet.heat">here</a>.
+
 
 
 
