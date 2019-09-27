@@ -4,9 +4,10 @@ OmniHacks 2019 - Best Website, Top 10 Overall
 When lead permeates public water systems, children are directly put at risk. In analyzing the lead concentration of drinking water in New York public schools, we hope to draw attention to this issue.
 
 <img src="images/webpb1.png">
-<img src="images/webpb2.png">
-<img src="images/webpb3.png">
-<img src="images/webpb4.png">
+<img src="images/webpb2.png" style="width:50%">
+<img src="images/webpb3.png" style="width:50%">
+<img src="images/webpb4.png" style="width:50%">
+<img src="images/webpb5.png" style="width:50%">
 
 ## Inspiration
 After the public outcry over the government's inaction in remedying the situation in Flint, Michigan, where the public was forced to contend with lead-infused water, we wanted to continue to draw attention to this issue since it spans numerous low-income communities in the U.S. Since children are not required to be tested for lead poisoning, numerous cases go untreated. By analyzing data concerning the lead concentration of drinking water from New York public schools, we aim to illustrate how this issue can fester in a populous state.
