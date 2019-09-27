@@ -5,8 +5,8 @@ When lead permeates public water systems, children are directly put at risk. In 
 
 <img src="images/webpb1.png">
 
-<img src="images/webpb2.png" width="250"> | <img src="images/webpb3.png" width="250">
-<img src="images/webpb4.png" width="250"> | <img src="images/webpb5.png" width="250">
+<img src="images/webpb2.png" width="400"> | <img src="images/webpb3.png" width="400">
+<img src="images/webpb4.png" width="400"> | <img src="images/webpb5.png" width="400">
 
 ## Inspiration
 After the public outcry over the government's inaction in remedying the situation in Flint, Michigan, where the public was forced to contend with lead-infused water, we wanted to continue to draw attention to this issue since it spans numerous low-income communities in the U.S. Since children are not required to be tested for lead poisoning, numerous cases go untreated. By analyzing data concerning the lead concentration of drinking water from New York public schools, we aim to illustrate how this issue can fester in a populous state.
