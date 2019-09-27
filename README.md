@@ -1,6 +1,12 @@
 # Web PB
 ## Overview
 OmniHacks 2019 - Best Website, Top 10 Overall
+When lead permeates public water systems, children are directly put at risk. In analyzing the lead concentration of drinking water in New York public schools, we hope to draw attention to this issue.
+
+<img src="images/webpb1.png">
+<img src="images/webpb2.png">
+<img src="images/webpb3.png">
+<img src="images/webpb4.png">
 
 ## Inspiration
 After the public outcry over the government's inaction in remedying the situation in Flint, Michigan, where the public was forced to contend with lead-infused water, we wanted to continue to draw attention to this issue since it spans numerous low-income communities in the U.S. Since children are not required to be tested for lead poisoning, numerous cases go untreated. By analyzing data concerning the lead concentration of drinking water from New York public schools, we aim to illustrate how this issue can fester in a populous state.
@@ -27,6 +33,7 @@ We hope to implement a mechanical aspect to our project so that users can test d
 HTML, CSS, PHP, JavaScript, Leaflet.js<br>
 Data obtained from <a href="https://healthdata.gov/dataset/lead-testing-school-drinking-water-sampling-and-results-most-recently-reported-beginning">Lead Testing in School Drinking Water</a>, a survey conducted by the Department of Health.<br>
 Components of this website include a heatmap plugin from Leaflet, which can be found <a href="https://github.com/Leaflet/Leaflet.heat">here</a>
+DevPost link for the OmniHacks hackathon <a href= "https://devpost.com/software/analyzing-lead-concentration-in-school-drinking-water?ref_content=contribution-prompt&ref_feature=engagement&ref_medium=email&utm_campaign=contribution-prompt&utm_content=contribution_reminder&utm_medium=email&utm_source=transactional#app-team">here</a>.
 
 
 
