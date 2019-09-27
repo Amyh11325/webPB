@@ -1,14 +1,9 @@
 # Web PB
-## About
+## Overview
 OmniHacks 2019 - Best Website, Top 10 Overall
-Analyzing lead concentration of water in New York schools <br>
-Data obtained from <a href="https://healthdata.gov/dataset/lead-testing-school-drinking-water-sampling-and-results-most-recently-reported-beginning">Lead Testing in School Drinking Water</a>, a survey conducted by the Department of Health.<br>
-Examples of ZIP Codes include: 14719, 12022, 14031
-<br>
-Components of this website include a heatmap plugin from Leaflet, which can be found <a href="https://github.com/Leaflet/Leaflet.heat">here</a>
 
 ## Inspiration
-After the public outcry over the government's inaction in remedying the situation in Flint, Michigan, where the public was forced to contend with lead-infused water, we wanted to continue to draw attention to this issue since it spans numerous low-income communities in the U.S. Since children are not required to be tested for lead poisoning, numerous cases go untreated. By visualizing data from New York public schools, we aim to illustrate how this issue can fester in a populous state.
+After the public outcry over the government's inaction in remedying the situation in Flint, Michigan, where the public was forced to contend with lead-infused water, we wanted to continue to draw attention to this issue since it spans numerous low-income communities in the U.S. Since children are not required to be tested for lead poisoning, numerous cases go untreated. By analyzing data concerning the lead concentration of drinking water from New York public schools, we aim to illustrate how this issue can fester in a populous state.
 
 ## What it does
 By entering a ZIP code, users can identify schools in their ZIP code and see the water quality of the water facilities there. The lead concentration of drinking water is displayed across numerous school districts in the state of New York so that users can comprehend the magnitude of the issue and compare the quality of water in their area as compared to neighboring ZIP codes.
@@ -29,8 +24,9 @@ Using several languages with different capabilities can present a challenge, esp
 We hope to implement a mechanical aspect to our project so that users can test drinking water themselves and contribute to a collective dataset shared by schools nationwide. We also hope to analyze the drinking water in other states as well and identify a correlation between socioeconomic status and quality of drinking water.
 
 ## Built with
-HTML, CSS, PHP, JavaScript, Leaflet.js
-
+HTML, CSS, PHP, JavaScript, Leaflet.js<br>
+Data obtained from <a href="https://healthdata.gov/dataset/lead-testing-school-drinking-water-sampling-and-results-most-recently-reported-beginning">Lead Testing in School Drinking Water</a>, a survey conducted by the Department of Health.<br>
+Components of this website include a heatmap plugin from Leaflet, which can be found <a href="https://github.com/Leaflet/Leaflet.heat">here</a>
 
 
 
