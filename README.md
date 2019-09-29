@@ -1,6 +1,5 @@
 # Web PB
 ## Overview
-OmniHacks Best Website, Top 10 Overall<br>
 When lead permeates public water systems, children are directly put at risk. In analyzing the lead concentration of drinking water in New York public schools, we hope to draw attention to this issue.
 
 <img src="images/webpb1.png">
